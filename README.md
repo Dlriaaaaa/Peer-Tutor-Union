@@ -79,7 +79,7 @@ Instead of rigid pre‑arranged tutoring pairs, our workflow is request‑driven
 🚀 Quick Start
 (Fill your actual install / launch steps here)
 # example commands
-git clone https://github.com/xxx/Peer‑Tutor‑Club.git
+git clone https://peertutorunion.com/xxx/Peer‑Tutor‑Club.git
 cd Peer‑Tutor‑Club
 # install dependencies
 # run dev server
